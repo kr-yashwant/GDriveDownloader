@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: kryas
+Class-Path: google-api-client-1.22.0.jar google-oauth-client-1.22.0.ja
+ r google-http-client-1.22.0.jar httpclient-4.0.1.jar httpcore-4.0.1.j
+ ar commons-logging-1.1.1.jar commons-codec-1.3.jar jsr305-1.3.9.jar g
+ oogle-http-client-jackson2-1.22.0.jar jackson-core-2.1.3.jar guava-jd
+ k5-17.0.jar google-oauth-client-jetty-1.22.0.jar google-oauth-client-
+ java6-1.22.0.jar jetty-6.1.26.jar jetty-util-6.1.26.jar servlet-api-2
+ .5-20081211.jar google-api-services-drive-v3-rev42-1.22.0.jar
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Main-Class: com.main.DownloadFromGoogleDrive
+
